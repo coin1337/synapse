@@ -1,0 +1,23 @@
+//
+TODO:
+ Fix the Chams module
+ Make a HudEditor
+         * Probably Rewrite current HUD elements like TargetHud and stuff
+         * Add more HUD Elements such as a TabGui
+ Fix Combat component in GUI
+ Add HitEffects/Onomatopoeia
+ Add Anchor
+ Add ReverseStep
+ Add Search
+ Improve HoleESP (add rendering height option)
+ Make a better Speed hack
+ Combine Strafe and Speed into one
+ Add More Hud
+ Add Fonts command
+ Add Scaffold
+ Add InvCleaner
+ Add Nuker
+ Add ChestStealer
+ Add ShulkerPreview
+ Add ElytraFly
+

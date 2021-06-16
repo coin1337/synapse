@@ -1,0 +1,36 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.ragemachine.moon.api.mixin.mixins",
+  "refmap": "mixins.moon.refmap.json",
+  "mixins": [
+    "MixinBlockLiquid",
+    "MixinBlockSoulSand",
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinFontRenderer",
+    "MixinGuiIngame",
+    "MixinGuiMainMenu",
+    "MixinGuiPlayerTabOverlay",
+    "MixinItemFood",
+    "MixinItemRenderer",
+    "MixinKeyBinding",
+    "MixinLayerArmorBase",
+    "MixinLayerBipedArmor",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRender",
+    "MixinRenderEntityItem",
+    "MixinRenderItem",
+    "MixinRenderLivingBase",
+    "MixinRenderPlayer",
+    "MixinWorld"
+  ],
+  "client": [
+    "MixinRenderEnderCrystal"
+  ]
+}

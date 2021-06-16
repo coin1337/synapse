@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "moonhack",
+    "name": "moonhack",
+    "description": "god tier",
+    "version": "0.5",
+    "mcversion": "1.12.2",
+	"logoFile": "moonhack.png",
+    "url": "https://discord.gg/n4RDfHW",
+    "updateUrl": "",
+    "authorList": ["ManOnTheMoon28","oHare","Crystallinqq", "Megyn"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
